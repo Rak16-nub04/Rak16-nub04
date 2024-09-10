@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Rak16-nub04
-- 👀 I’m interested in- problem solving
-- 🌱 I’m currently learning- DBMS
+- 👀 I’m interested in- problem solving and Machine learning
+- 😍 I learnt- c programming, Java, DBMS
+- 🌱 I'm learning- python & machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- mail
 - 😄 Pronouns: ...
