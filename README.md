@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Rak16-nub04
+- 👋 Hi, I’m Rakibul Islam
 - 👀 I’m interested in- problem solving and Machine learning
 - 😍 I learnt- c programming, Java, DBMS
 - 🌱 I'm learning- python & machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me- mail // where is the eamil via one would contact you
-- 😄 Pronouns: ...
+- 📫 How to reach me- rakibul.islam27@northsouth.edu
 - ⚡ Fun fact: 🌜🌛
